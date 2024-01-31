@@ -1,8 +1,4 @@
-## Screenshots
-![Inicio] (images/inicio.PNG)
-![Items] (images/items.png)
-![Especificaciones](images/especificaciones.png)
-![Carrito] (images/carrito.png)
+
 
 ## Explicacion de los npm adicionales descargados
 
